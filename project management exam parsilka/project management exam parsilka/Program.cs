@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace project_management_exam_parsilka
 {
-    class Program
+  public  class Program
     {
         public Dictionary<string, int> Parsilka(string path)
         {
@@ -22,7 +22,7 @@ namespace project_management_exam_parsilka
             {
                 char ch = book[i];
 
-                if (ch == '\r' || ch == '\n' || ch == ',' || ch == '!' || ch == '?' || ch == '.' || ch == ';' || ch == ':' || ch == ' ')//нахождение разделителя
+                if (ch == '\r' || ch == '\n' || ch == ',' || ch == '!' || ch == '?' || ch == '.' || ch == ';' || ch == ':' || ch == ' '|| i== BLen-1)//нахождение разделителя или конца файла
                 {
                     if (WordCorrect == true && WordStart > -1/* && book[i - 1] != '-'*/)//разделитель найден проверка на правильность слова
                     {
@@ -69,7 +69,7 @@ namespace project_management_exam_parsilka
         static void Main(string[] args)
         {
             Program pr = new Program();
-            Dictionary<string, int> asd = pr.Parsilka(@"c:\temp\north.sql");
+            Dictionary<string, int> asd = pr.Parsilka(@"c:\temp\test3.txt");
 
             foreach (var item in asd)
             {
