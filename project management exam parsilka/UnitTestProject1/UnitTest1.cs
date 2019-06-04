@@ -49,6 +49,8 @@ namespace UnitTestProject1
 
             Dictionary<string, int> asd = pr.Parsilka(@"c:\temp\test5.txt");//5 нормальных слов с дефизами и кавычками
             Assert.AreEqual(asd.Count, 5);
+
+
         }
     }
 }
