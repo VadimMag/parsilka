@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project management exam parsilka", "project management exam parsilka\project management exam parsilka.csproj", "{F6EE89F7-6BC2-4ED4-A2DE-2C199D3C03A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{18E10E69-56E4-4A9B-8904-352109915875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6EE89F7-6BC2-4ED4-A2DE-2C199D3C03A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6EE89F7-6BC2-4ED4-A2DE-2C199D3C03A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6EE89F7-6BC2-4ED4-A2DE-2C199D3C03A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E10E69-56E4-4A9B-8904-352109915875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E10E69-56E4-4A9B-8904-352109915875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E10E69-56E4-4A9B-8904-352109915875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E10E69-56E4-4A9B-8904-352109915875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,3 +5,10 @@ C:\temp\project management exam parsilka\project management exam parsilka\obj\De
 C:\temp\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.csproj.CoreCompileInputs.cache
 C:\temp\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.exe
 C:\temp\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.pdb
+c:\git\project management exam parsilka\project management exam parsilka\bin\Debug\project management exam parsilka.exe.config
+c:\git\project management exam parsilka\project management exam parsilka\bin\Debug\project management exam parsilka.exe
+c:\git\project management exam parsilka\project management exam parsilka\bin\Debug\project management exam parsilka.pdb
+c:\git\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.csprojAssemblyReference.cache
+c:\git\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.csproj.CoreCompileInputs.cache
+c:\git\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.exe
+c:\git\project management exam parsilka\project management exam parsilka\obj\Debug\project management exam parsilka.pdb
