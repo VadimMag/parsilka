@@ -4,6 +4,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using project_management_exam_parsilka;
 namespace UnitTestProject1
 {
+<<<<<<< HEAD
+=======
+
+>>>>>>> tests
     [TestClass]
     public class UnitTest1
     {
@@ -49,8 +53,11 @@ namespace UnitTestProject1
 
             Dictionary<string, int> asd = pr.Parsilka(@"c:\temp\test5.txt");//5 нормальных слов с дефизами и кавычками
             Assert.AreEqual(asd.Count, 5);
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> tests
         }
     }
 }
